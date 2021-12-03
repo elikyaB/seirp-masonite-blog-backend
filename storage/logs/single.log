@@ -1,0 +1,46 @@
+2021-12-03 19:43:13 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-03 19:43:13 - WARNING - "GET /blog HTTP/1.1" 404 1536
+2021-12-03 19:47:49 - INFO - "GET /blogs HTTP/1.1" 200 1206
+2021-12-03 19:48:42 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:49:10 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:51:12 - ERROR - AttributeError in 0 on line 0
+2021-12-03 19:51:12 - ERROR - "GET /blogs/1 HTTP/1.1" 500 1041544
+2021-12-03 19:51:36 - INFO - "GET /blogs/1 HTTP/1.1" 200 200
+2021-12-03 19:52:36 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:53:31 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:53:31 - ERROR - "POST /blogs/ HTTP/1.1" 500 956336
+2021-12-03 19:55:09 - INFO - "GET /blogs/ HTTP/1.1" 200 1206
+2021-12-03 19:55:09 - INFO - "GET /blogs/2 HTTP/1.1" 200 187
+2021-12-03 19:55:09 - INFO - "GET /blogs/3 HTTP/1.1" 200 813
+2021-12-03 19:55:34 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:55:34 - ERROR - "PUT /blogs/1 HTTP/1.1" 500 956336
+2021-12-03 19:57:17 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:57:17 - ERROR - "PUT /blogs/1 HTTP/1.1" 500 956206
+2021-12-03 19:58:35 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:58:35 - ERROR - "POST /blogs/ HTTP/1.1" 500 956336
+2021-12-03 19:58:41 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:58:41 - ERROR - "POST /blogs HTTP/1.1" 500 956335
+2021-12-03 19:58:49 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:58:49 - ERROR - "DELETE /blogs/1 HTTP/1.1" 500 956339
+2021-12-03 20:06:57 - INFO - "GET /blogs/ HTTP/1.1" 200 1206
+2021-12-03 20:07:11 - ERROR - ContainerError in 0 on line 0
+2021-12-03 20:07:11 - ERROR - "POST /blogs/ HTTP/1.1" 500 956336
+2021-12-03 20:11:01 - ERROR - ContainerError in 0 on line 0
+2021-12-03 20:11:01 - ERROR - "POST /blogs/ HTTP/1.1" 500 956336
+2021-12-03 20:17:15 - ERROR - ContainerError in 0 on line 0
+2021-12-03 20:17:15 - ERROR - "POST /blogs/ HTTP/1.1" 500 956206
+2021-12-03 20:17:39 - ERROR - ContainerError in 0 on line 0
+2021-12-03 20:17:39 - ERROR - "POST /blogs/ HTTP/1.1" 500 956336
+2021-12-03 20:18:00 - INFO - "GET /blogs/ HTTP/1.1" 200 2
+2021-12-03 20:19:00 - INFO - "GET /blogs/ HTTP/1.1" 200 2
+2021-12-03 20:19:10 - ERROR - ContainerError in 0 on line 0
+2021-12-03 20:19:10 - ERROR - "POST /blogs/ HTTP/1.1" 500 956336
+2021-12-03 20:21:52 - ERROR - ContainerError in 0 on line 0
+2021-12-03 20:21:52 - ERROR - "POST /blogs/cheese HTTP/1.1" 500 956342
+2021-12-03 20:22:56 - INFO - "POST /blogs/cheese HTTP/1.1" 200 6
+2021-12-03 20:22:56 - INFO - "POST /blogs/ HTTP/1.1" 200 18
+2021-12-03 20:23:36 - INFO - "POST /blogs/ HTTP/1.1" 200 154
+2021-12-03 20:23:36 - INFO - "DELETE /blogs/1 HTTP/1.1" 200 156
+2021-12-03 20:23:36 - INFO - "GET /blogs/ HTTP/1.1" 200 2
+2021-12-03 20:25:49 - INFO - "GET /blogs/ HTTP/1.1" 200 1206
+2021-12-03 20:25:49 - INFO - "DELETE /blogs/1 HTTP/1.1" 200 202
